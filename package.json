@@ -1,0 +1,30 @@
+{
+  "name": "irc-dinbendon",
+  "version": "0.0.1",
+  "description": "when someone open a new order, it will say information to the irc channel",
+  "main": "boot.js",
+  "dependencies": {
+    "irc": "^0.3.11",
+    "forever": "^0.14.1",
+    "request": "^2.55.0",
+    "htmlparser2": "^3.8.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/waynelkh/irc-dinbendon.git"
+  },
+  "keywords": [
+    "irc",
+    "dinbendon"
+  ],
+  "author": "wnlee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/waynelkh/irc-dinbendon/issues"
+  },
+  "homepage": "https://github.com/waynelkh/irc-dinbendon"
+}
